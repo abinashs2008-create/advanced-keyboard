@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Advanced Keyboard</string>
+    <string name="ime_name">Advanced Android Keyboard</string>
+    <string name="settings_title">Advanced Keyboard Settings</string>
+    <string name="subtype_en_us">English (US) QWERTY</string>
+
+    <string name="mode_normal">Normal</string>
+    <string name="mode_advanced">Advanced</string>
+    <string name="mode_editing">Editing</string>
+
+    <string name="key_ctrl">Ctrl</string>
+    <string name="key_alt">Alt</string>
+    <string name="key_shift">Shift</string>
+    <string name="key_fn">Fn</string>
+    <string name="key_tab">Tab</string>
+    <string name="key_esc">Esc</string>
+    <string name="key_caps">Caps</string>
+    <string name="key_home">Home</string>
+    <string name="key_end">End</string>
+    <string name="key_del">Del</string>
+    <string name="key_ins">Ins</string>
+
+    <string name="action_select_all">Select All</string>
+    <string name="action_cut">Cut</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_paste">Paste</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_redo">Redo</string>
+    <string name="action_select_toggle">SELECT</string>
+    <string name="action_word_prev">◀ Word</string>
+    <string name="action_word_next">Word ▶</string>
+    <string name="action_line_start">⇤ Line</string>
+    <string name="action_line_end">Line ⇥</string>
+
+    <string name="pref_cat_appearance">Appearance &amp; Layout</string>
+    <string name="pref_keyboard_height">Keyboard Height</string>
+    <string name="pref_theme">Keyboard Theme</string>
+    <string name="pref_show_number_row">Show Dedicated Number Row</string>
+    <string name="pref_show_key_borders">Show Key Borders</string>
+
+    <string name="pref_cat_modifiers">Desktop Modifiers</string>
+    <string name="pref_modifier_one_shot">One-Shot Modifier Tapping</string>
+    <string name="pref_modifier_lock_double_tap">Double-Tap Modifier Locking</string>
+    <string name="pref_key_repeat">Enable Key Repeat</string>
+
+    <string name="pref_cat_cursor">Cursor &amp; Navigation</string>
+    <string name="pref_spacebar_trackpad">Spacebar Cursor Sliding</string>
+    <string name="pref_cursor_sensitivity">Trackpad Sensitivity</string>
+
+    <string name="pref_cat_feedback">Haptic &amp; Sound Feedback</string>
+    <string name="pref_vibrate_on_keypress">Vibrate on Keypress</string>
+    <string name="pref_vibration_strength">Vibration Strength (ms)</string>
+    <string name="pref_sound_on_keypress">Sound on Keypress</string>
+
+    <string name="pref_cat_privacy">Privacy &amp; Security</string>
+    <string name="pref_privacy_desc">Advanced Keyboard operates 100% locally. Zero network permissions, no logging, and zero data exfiltration.</string>
+</resources>
