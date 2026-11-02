@@ -39,7 +39,7 @@ class AdvancedToolbarView(
         val keyWidth = 130
         val modifierKeys = listOf(
             ModifierKey.CTRL, ModifierKey.ALT, ModifierKey.SHIFT, ModifierKey.FN,
-            ModifierKey.TAB, ModifierKey.ESC, ModifierKey.DEL, ModifierKey.HOME,
+            ModifierKey.TAB, ModifierKey.ESC, ModifierKey.DELETE, ModifierKey.HOME,
             ModifierKey.END, ModifierKey.INSERT
         )
         for (mod in modifierKeys) {
